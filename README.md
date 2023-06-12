@@ -11,10 +11,9 @@ We have a dataset of CHD including Id, education, sex, is_smoking, BPMeds, preva
 click to open [Dataset](https://drive.google.com/file/d/1jv8AyntOWWJDWyEv1TtsCYLXAmCYZf9N/view?usp=share_link).
 
 # Files in this repository
-- [Indivisual colab]()
-- [Team Colab Notebook]()
+- [Indivisual colab](https://github.com/Samarjeet-singh-chhabra/Classification-CardioVascular-Risk-Pridiction/blob/main/PERSONAL_NOTEBOOK_%7C_CP_3_%7C_CARDIOVASCULAR_RISK_PREDICTION_%7C_SAMARJEET.ipynb)
+- [Team Colab Notebook](https://github.com/Samarjeet-singh-chhabra/Classification-CardioVascular-Risk-Pridiction/blob/main/TEAM_NOTEBOOK_%7C_CP_3_%7C_CARDIOVASCULAR_RISK_PREDICTION_%7C_SAMARJEET.ipynb)
 - [Dataset](https://drive.google.com/file/d/1jv8AyntOWWJDWyEv1TtsCYLXAmCYZf9N/view?usp=share_link)
-- [Project Summary]()
 
 
 > V.0.0.1
